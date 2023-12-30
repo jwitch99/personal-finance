@@ -78,7 +78,7 @@ def footerSection() :
                 }
             </style>
             <div class="footer">
-                <p>Developed with ❤️ by <a style= text-align: center;'><b>Soumyadip Ghorai</b></a></p>
+                <p>Developed with ❤️ by <a style= text-align: center;'><b>Jonathan Witchard</b></a></p>
                 <p><a href = 'https://github.com/soumyadipghorai/personal-finance' target = '_blank'>github</a></p>
             </div>
         """

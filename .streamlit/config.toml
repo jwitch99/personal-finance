@@ -1,6 +1,11 @@
 [theme]
-base="light"
-primaryColor="#ff1b00"
-secondaryBackgroundColor="#c9c9c9"
-textColor="#232323"
+base="dark"
+# primaryColor="#ff1b00"
+# secondaryBackgroundColor="#c9c9c9"
+# textColor="#232323"
 font="serif"
+
+[server]
+headless=true
+enableCORS=false
+port=8080
